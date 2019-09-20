@@ -1,0 +1,31 @@
+
+html
+{
+    font-size:10px;
+}
+
+body
+{
+    background:#ffc600;
+    font-family: 'Poppins', 'Helvetica', 'sans-serif';
+    font-weight:200;
+    font-size:20px;
+}
+
+.words
+{
+    max-width:500px;
+    margin:50px auto;
+    background:white;
+    border-radius:5px;
+    border: 1px solid #EEEEEE;
+    box-shadow: 1px 1px 0 #DDDDDD;
+}
+
+p
+{
+    margin:20px;
+    border-bottom:1px dotted #0000FA;
+}
+
+
